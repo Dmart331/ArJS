@@ -1,6 +1,6 @@
 # This file uses centimeters as units for non-parametric coordinates.
 
-mtllib BB_logo.mtl
+mtllib BB_logo 2.mtl
 g default
 v 0.000003 -0.096700 -14.317883
 v -12.399649 -0.096700 -7.158944
